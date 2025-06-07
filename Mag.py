@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QPushBut
 
 app = QApplication(sys.argv)
 okno = QWidget()
-okno.setWindowTitle("Magazyn filamentu")
+okno.setWindowTitle("Magazyn filament")
 okno.setFixedSize(400, 500)
 
 layout = QVBoxLayout()
